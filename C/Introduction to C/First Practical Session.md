@@ -9,6 +9,8 @@ int main() {
 }
 ```
 
+----
+
 ### Printing an integer
 ```c 
 #include<stdio.h>
@@ -19,6 +21,9 @@ int main() {
     return 0;
 }
 ```
+
+----
+
 
 ### sum of 2 numbers
 ```C
@@ -32,6 +37,9 @@ int main() {
     return 0;
 }
 ```
+
+----
+
 
 ### product of 2 mumbers
 
@@ -47,6 +55,9 @@ int main() {
 }
 ```
 
+----
+
+
 ### basic if statement
 
 ```C
@@ -60,6 +71,9 @@ int main() {
     printf("value of a = %d", a);
 }
 ```
+
+----
+
 
 
 ### basic if else statement
@@ -78,6 +92,9 @@ int main() {
 ```
 
 
+----
+
+
 ### basic for loop
 ```C
 #include<stdio.h>
@@ -90,6 +107,9 @@ int main() {
     return 0;
 }
 ```
+
+
+----
 
 
 ### printing number from 1 to 10
@@ -105,6 +125,9 @@ int main() {
 }
 ```
 
+----
+
+
 ### printing numbers from 10 to 1 in reverse order
 ```C
 #include<stdio.h>
@@ -117,6 +140,10 @@ int main() {
     return 0;
 }
 ```
+
+
+----
+
 
 ### basic arrays
 ```C
@@ -140,6 +167,9 @@ int main() {
     return 0;
 }
 ```
+
+
+----
 
 
 ### sum of elements in array without loop
@@ -167,6 +197,9 @@ int main() {
     return 0;
 }
 ```
+
+----
+
 
 ### sum of elements of an array using loop
 ```C
@@ -197,6 +230,9 @@ int main() {
 }
 ```
 
+----
+
+
 ### swapping 2 numbers
 ```C
 #include<stdio.h>
@@ -219,6 +255,10 @@ int main() {
 }
 ```
 
+
+----
+
+
 ### modulus operator
 ```c 
 #include<stdio.h>
@@ -232,6 +272,9 @@ int main() {
     return 0;
 }
 ```
+
+----
+
 
 ### checking even and ood numbers using if
 ```c
@@ -250,6 +293,9 @@ int main() {
 }
 ```
 
+----
+
+
 ### printing odd numbers from 1 to 20
 ```c
 #include<stdio.h>
@@ -266,6 +312,9 @@ int main() {
     return 0;
 }
 ```
+
+----
+
 
 ### if-else inside for loop
 ```c
@@ -286,6 +335,9 @@ int main() {
 }
 ```
 
+----
+
+
 ### printing even numbers from 1 to 20
 ```c
 #include<stdio.h>
@@ -303,6 +355,9 @@ int main() {
 }
 ```
 
+----
+
+
 ### simple for loop
 ```c
 #include<stdio.h>
@@ -316,6 +371,10 @@ int main() {
     return 0;
 }
 ```
+
+
+----
+
 
 ### nested for loop
 ```c
@@ -333,3 +392,6 @@ int main() {
     return 0;
 }
 ```
+
+----
+
